@@ -1,0 +1,11 @@
+var comm_url = "https://request.pushalert.co/";
+var default_title = "";
+var default_message = "";
+var default_icon = "https://cdn.pushalert.co/icons/default_icon-76304.png";
+var default_url = "https://canalqb.blogspot.com";
+var last_updated = "1733965810";
+var client_id = 76304;
+var domain_id = 1;
+var pa_subdomain = "https://canalqb159.pushalert.co";
+var appPublicKey = 'BKngPNDaJuMW5PBLK/+Fv/8CBg1Nv9VXL+KGPdy4I+UnLOsMspKEI8bGjjWJTSUmAe1CP0C4eEZW0bh03f2zQgw=';
+importScripts("https://cdn.pushalert.co/sw-external-payload.js?t=1733965810");
